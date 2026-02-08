@@ -1557,22 +1557,24 @@
   {
     "id": 254,
     "fact": "The term 'ashita no tenki' (明日の天気) is used in small talk, similar to discussing the weather to open conversations.",
-    "issued": false
+    "issued": false,
+    "completed": true
   },
   {
     "id": 255,
     "fact": "Japan’s traditional towel, the 'tenugui' (手ぬぐい), is used for drying hands, wrapping gifts, and decorating homes.",
-    "issued": false
+    "issued": true
   },
   {
     "id": 256,
     "fact": "The word 'asahi' (朝日) means morning sun, and many towns host sunrise walks called 'asahi sanpo'.",
-    "issued": false
+    "issued": false,
+    "completed": true
   },
   {
     "id": 257,
     "fact": "Japan’s 'shugendo' (修験道) is a mountain ascetic tradition combining Shinto, Buddhism, and folk practices.",
-    "issued": false
+    "issued": true
   },
   {
     "id": 258,
